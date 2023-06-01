@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is file9 and update is from gitbash to check the mergeconfict with the feature1
+=======
+this update is from feature1 branch to test the merge conflict
+>>>>>>> feature1
